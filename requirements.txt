@@ -1,0 +1,8 @@
+# Qdrant 벡터 DB 클라이언트
+qdrant-client==1.18.0
+ 
+# bge-m3 임베딩 모델 로딩/인코딩 (torch, transformers, numpy 자동 설치됨)
+sentence-transformers==5.5.1
+
+# OpenAI
+openai
